@@ -114,14 +114,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tanvi Jain"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Test Automation Engineer transitioning into Product Management. I share study notes, book summaries, and journal entries from the road to becoming a Product Owner."
+  location         : "Helsinki, Finland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
+    - label: "tanvijain7@gmail.com"
       icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:your.name@email.com"
     - label: "Website"
