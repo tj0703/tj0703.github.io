@@ -18,7 +18,7 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "My Product Journey"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Learning Product Management in public"
 name                     : "Tanvi Jain"
 description              : "Notes from my journey into Product Management — learnings, ideas, and honest journal entries from a beginner, for beginners."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
