@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Tanvi Jain"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Test Automation Engineer transitioning into Product Management. I share study notes, book summaries, and journal entries from the road to becoming a Product Owner."
+  bio              : "Test Automation Engineer transitioning into Product Management."
   location         : "Helsinki, Finland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
